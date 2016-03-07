@@ -75,6 +75,10 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch)
 	- [Tips](https://github.com/loverajoel/jstips)
 	- [Network Layer](https://github.com/Kikobeats/awesome-network-js)
+	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages)
+	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science)
+	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules) *(for npm packages)*
+	- [npm](https://github.com/sindresorhus/awesome-npm)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
@@ -161,6 +165,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Vue.js](https://github.com/vuejs/awesome-vue)
 - [Marionette.js](https://github.com/sadcitizen/awesome-marionette)
 - [Aurelia](https://github.com/behzad888/awesome-aurelia)
+- [Charting](https://github.com/zingchart/awesome-charting)
 
 
 ## Back-end Development
@@ -173,6 +178,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Play1 Framework](https://github.com/PerfectCarl/awesome-play1)
 - [CakePHP](https://github.com/friendsofcake/awesome-cakephp)
 - [Symfony](https://github.com/sitepoint/awesome-symfony)
+    - [Education](https://github.com/Symfonisti/awesome-symfony-education)
 - [Laravel](https://github.com/chiraggude/awesome-laravel)
 	- [Education](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/en_US.md)
 - [Rails](https://github.com/ekremkaraca/awesome-rails)
@@ -191,6 +197,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 	- [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
+	- [Spanish](https://github.com/dav009/awesome-spanish-nlp)
 - [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics)
 - [Cryptography](https://github.com/MaciejCzyzewski/retter)
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
@@ -219,7 +226,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Algorithm Visualizations](https://github.com/enjalot/algovis)
 - [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 - [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization)
-- [Competitive Coding](https://github.com/hkirat/awesome-competitive-coding)
+- [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
 - [Math](https://github.com/rossant/awesome-math)
 
 
@@ -250,6 +257,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Unity](https://github.com/RyanNielson/awesome-unity) *(Game engine)*
 - [Chess](https://github.com/hkirat/awesome-chess)
 - [LÖVE](https://github.com/JanWerder/awesome-love2d) *(Game engine)*
+- [PICO-8](https://github.com/felipebueno/awesome-PICO-8) *(Fantasy console)*
 
 
 ## Development Environment
@@ -267,6 +275,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Git Tips](https://github.com/git-tips/tips)
 - [Git Add-ons](https://github.com/stevemao/awesome-git-addons)
 - [SSH](https://github.com/moul/awesome-ssh)
+- [FOSS for Developers](https://github.com/httpsGithubParty/FOSS-for-Dev)
 
 
 ## Entertainment
@@ -295,6 +304,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
 - [GIF](https://github.com/ibaaj/awesome-gif)
 - [Music](https://github.com/ciconia/awesome-music)
+- [Open Source Documents](https://github.com/nacyot/awesome-opensource-documents)
 
 
 ## Learn
@@ -337,7 +347,6 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Radio](https://github.com/kyleterry/awesome-radio)
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [Analytics](https://github.com/onurakpolat/awesome-analytics)
-- [FOSS for Developers](https://github.com/httpsGithubParty/FOSS-for-Dev)
 - [Open Companies](https://github.com/opencompany/awesome-open-company)
 - [REST](https://github.com/marmelab/awesome-rest)
 - [Selenium](https://github.com/christian-bromann/awesome-selenium)
@@ -349,11 +358,9 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Answers](https://github.com/jugoncalves/awesome-answers) *(Stack Overflow, Quora, etc)*
 - [Sketch](https://github.com/diessica/awesome-sketch) *(OS X app)*
 - [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup)
-- [Maintenance Modules](https://github.com/maxogden/maintenance-modules) *(for npm packages)*
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools)
 - [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)
 - [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates)
-- [Mad Science Modules](https://github.com/feross/awesome-mad-science)
 - [Readme](https://github.com/matiassingers/awesome-readme)
 - [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
 - [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
@@ -377,10 +384,8 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Microservices](https://github.com/mfornos/awesome-microservices)
 - [Unicode Code Points](https://github.com/Codepoints/awesome-codepoints)
 - [Internet of Things](https://github.com/HQarroum/awesome-iot)
-- [Open Source Documents](https://github.com/nacyot/awesome-opensource-documents)
 - [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners)
 - [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon)
-- [Spanish Natural Language Processing (NLP)](https://github.com/dav009/awesome-spanish-nlp)
 - [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interviews)
 - [Ripple](https://github.com/vhpoet/awesome-ripple) *(Open-source distributed settlement network)*
 - [Katas](https://github.com/gmontalvoriv/awesome-katas)

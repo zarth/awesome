@@ -155,6 +155,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [D3](https://github.com/wbkd/awesome-d3)
 - [Emails](https://github.com/jonathandion/awesome-emails)
 - [jQuery](https://github.com/peterkokot/awesome-jquery)
+    - [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)
 - [Web Audio](https://github.com/notthetup/awesome-webaudio)
 - [Offline-First](https://github.com/pazguille/offline-first)
 - [Static Website Services](https://github.com/aharris88/awesome-static-website-services)
@@ -294,6 +295,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb)
 - [Neo4j](https://github.com/Neueda4j/awesome-neo4j)
 - [Doctrine](https://github.com/TomasVotruba/awesome-doctrine) *(PHP ORM)*
+- [MongoDB](https://github.com/ramnes/awesome-mongodb)
 
 
 ## Media

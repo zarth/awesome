@@ -65,6 +65,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Windows](https://github.com/RiseLedger/awesome-windows)
 - [IPFS](https://github.com/ipfs/awesome-ipfs)
 - [Fuse](https://github.com/vinkla/awesome-fuse)
+- [Heroku](https://github.com/ianstormtaylor/awesome-heroku)
 
 
 ## Programming Languages
@@ -79,6 +80,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science)
 	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules) *(for npm packages)*
 	- [npm](https://github.com/sindresorhus/awesome-npm)
+	- [AVA](https://github.com/sindresorhus/awesome-ava) *(Test runner)*
 - [Swift](https://github.com/matteocrippa/awesome-swift)
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
@@ -106,6 +108,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Groovy](https://github.com/kdabir/awesome-groovy)
 - [Dart](https://github.com/yissachar/awesome-dart)
 - [Java](https://github.com/akullpp/awesome-java)
+	- [RxJava](https://github.com/eleventigers/awesome-rxjava)
 - [Kotlin](https://github.com/JavaBy/awesome-kotlin)
 - [OCaml](https://github.com/rizo/awesome-ocaml)
 - [Coldfusion](https://github.com/seancoyne/awesome-coldfusion)
@@ -167,6 +170,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Marionette.js](https://github.com/sadcitizen/awesome-marionette)
 - [Aurelia](https://github.com/behzad888/awesome-aurelia)
 - [Charting](https://github.com/zingchart/awesome-charting)
+- [Ionic Framework 2](https://github.com/candelibas/awesome-ionic2)
 
 
 ## Back-end Development
@@ -400,6 +404,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Vorpal](https://github.com/vorpaljs/awesome-vorpal) *(Node.js CLI framework)*
 - [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr) *(Goal setting & communication best practices)*
 - [Vulkan](https://github.com/vinjn/awesome-vulkan)
+- [LaTeX](https://github.com/egeerardyn/awesome-LaTeX) *(Typesetting language)*
 
 
 ## License

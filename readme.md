@@ -81,6 +81,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules) *(for npm packages)*
 	- [npm](https://github.com/sindresorhus/awesome-npm)
 	- [AVA](https://github.com/sindresorhus/awesome-ava) *(Test runner)*
+	- [ESLint](https://github.com/dustinspecker/awesome-eslint)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
@@ -171,6 +172,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Aurelia](https://github.com/behzad888/awesome-aurelia)
 - [Charting](https://github.com/zingchart/awesome-charting)
 - [Ionic Framework 2](https://github.com/candelibas/awesome-ionic2)
+- [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
 
 
 ## Back-end Development
@@ -193,6 +195,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [nginx](https://github.com/fcambus/nginx-resources)
 - [Dropwizard](https://github.com/stve/awesome-dropwizard)
 - [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+- [Lumen](https://github.com/unicodeveloper/awesome-lumen)
 
 
 ## Computer Science
@@ -207,6 +210,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Cryptography](https://github.com/MaciejCzyzewski/retter)
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) *(Neural networks)*
+	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow)
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 - [Open Source Society University](https://github.com/open-source-society/computer-science)
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming)
@@ -311,6 +315,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [GIF](https://github.com/ibaaj/awesome-gif)
 - [Music](https://github.com/ciconia/awesome-music)
 - [Open Source Documents](https://github.com/nacyot/awesome-opensource-documents)
+- [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
 
 
 ## Learn
@@ -405,7 +410,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr) *(Goal setting & communication best practices)*
 - [Vulkan](https://github.com/vinjn/awesome-vulkan)
 - [LaTeX](https://github.com/egeerardyn/awesome-LaTeX) *(Typesetting language)*
-
+- [Network Analysis](https://github.com/briatte/awesome-network-analysis)
 
 ## License
 

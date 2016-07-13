@@ -12,15 +12,16 @@
 - [Contribution guide](contributing.md)
 - [Creating a list](create-list.md)
 - [Buy a sticker](https://www.stickermule.com/marketplace/10034-awesome)
+- [Chat](https://gitter.im/sindresorhus/awesome)
 
-[![Awesome chat](https://badges.gitter.im/sindresorhus/awesome.svg)](https://gitter.im/sindresorhus/awesome)
+Just type [`awesome.re`](https://awesome.re) to go here. ✨
 
 -
 
 Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](https://twitter.com/sindresorhus).
 
 
-## Table of Contents
+## Contents
 
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
@@ -114,7 +115,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [RxJava](https://github.com/eleventigers/awesome-rxjava)
 - [Kotlin](https://github.com/JavaBy/awesome-kotlin)
 - [OCaml](https://github.com/rizo/awesome-ocaml)
-- [Coldfusion](https://github.com/seancoyne/awesome-coldfusion)
+- [ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
 - [Fortran](https://github.com/rabbiabram/awesome-fortran)
 - [.NET](https://github.com/quozd/awesome-dotnet)
 - [PHP](https://github.com/ziadoz/awesome-php)
@@ -177,6 +178,9 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Ionic Framework 2](https://github.com/candelibas/awesome-ionic2)
 - [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
 - [PostCSS](https://github.com/jjaderg/awesome-postcss)
+- [Draft.js](https://github.com/nikgraf/awesome-draft-js) - Rich text editor framework for React.
+- [Service Workers](https://github.com/TalAter/awesome-service-workers)
+- [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps)
 
 
 ## Back-End Development
@@ -201,6 +205,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 - [Lumen](https://github.com/unicodeveloper/awesome-lumen)
 - [Serverless Framework](https://github.com/JustServerless/awesome-serverless)
+- [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket) - Java web app framework.
 
 
 ## Computer Science
@@ -281,6 +286,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Dev Env](https://github.com/jondot/awesome-devenv)
 - [Dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [Shell](https://github.com/alebcay/awesome-shell)
+- [Fish](https://github.com/fisherman/awesome-fish)
 - [Command-Line Apps](https://github.com/aharris88/awesome-cli-apps)
 - [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins)
 - [GitHub](https://github.com/phillipadsmith/awesome-github)
@@ -426,6 +432,9 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
 - [Colorful](https://github.com/Siddharth11/Colorful) - Resources to choose your next color scheme.
 - [Steam](https://github.com/scholtzm/awesome-steam) - Digital distribution platform.
+- [Bots](https://github.com/hackerkid/bots) - Building bots.
+- [Site Reliability Engineering](https://github.com/dastergon/awesome-sre)
+- [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering) - Building and promoting more compassionate engineering cultures.
 
 
 ## License
